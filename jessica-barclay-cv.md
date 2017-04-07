@@ -51,7 +51,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
-Photography Ba(hons) 2:1
+- BA(hons) Photography 2:1
 
 #### King Edward VII - Sheffield (September 2004 - May 2011)
 
