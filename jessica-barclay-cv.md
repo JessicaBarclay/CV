@@ -34,20 +34,21 @@ In my previous role as Photographer, I was expected to work at an efficient pace
 
 #### Committed
 
-I am extremely driven when exposed to an area I am interested in. For example whilst at University, I secured a job which started following my graduation in London's largest commercial photographic studio.
-Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day.
+Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day. I am extremely driven particularly when exposed to an area I am interested in. For example whilst at University, I secured a job in London's largest commercial photographic studio which I started following my graduation.
+
 
 
 ## Education
 
 #### Makers Academy (April 2017 - June 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Team player
+- Fast learner
+- Logical
+- Problem solver
 - OOP, TDD, SOLID, MVC, DDD, Agile
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Sinatra, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, HTML5, CSS3
+- Sinatra, Node.js, Angular.js, Rspec, Heroku
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
@@ -63,20 +64,22 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 ## Experience
 
-**Noble Studios** (October 2015 - March 2017)
+**Noble Studios, Bournemouth** (October 2015 - March 2017)
 *Junior Photographer*
+*Commercial Design and Photographic agency*
 
-Commercial Design and Photographic agency. Responsibilities involved studio photography for E-commerce companies, and advertising. Together with professional retouching and strong team working skills, working alongside design and marketing teams, and front end web developers.
+- Responsibilities involved studio photography for E-commerce websites, and advertising
+- Strong practical skill set including professional retouching
+- Team working skills
 
-
-**MakerClub** (September 2016 - February 2017)
+**MakerClub, Barclays Eagle Labs. Bournemouth** (September 2016 - February 2017)
 *Volunteer*
+*MakerClub is a company which hosts programming and robotics workshops nationwide for children aged 8-13
 
-MakerClub is a company which hosts programming and robotics workshops for children aged 8-13, nationwide.
-Responsibilities involve teaching children basic coding, and how to program micro-controllers similar to the Arduino and Raspberry Pi.
+- Responsibilities involve teaching children basic coding
+- Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
-
-**Big Sky Studios** (May 2015 - September 2015)
+**Big Sky Studios, London** (May 2015 - September 2015)
 *Photographic Assistant*
-
+Commercial Photographic Studio
 Role involved looking after high end clients, and setting up studio lighting.
