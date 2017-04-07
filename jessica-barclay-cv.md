@@ -2,7 +2,7 @@
 
 A Software Developer in the making, with experience in a highly technical role. A former Commercial Photographer, with an impressive calibre of technical ability, and problem solving skills combined with a natural creative flair.
 
-Jessica has made the decision to use her logical and practical skillset in pursuit of a career in the world of programming. After working with web development teams on a day to day basis in the workplace, she has gained a strong interest in the area. Now on a committed journey in an intensive learning program with Makers Academy which is solely based on teaching best practises for the software development workplace.
+Jessica has made the decision to use her logical and practical skill set in pursuit of a career in the world of programming. After working with web development teams on a day to day basis in the workplace, she has gained a strong interest in the area. Now on a committed journey in an intensive learning program with Makers Academy which is solely based on teaching best practice for the software development workplace.
 Seeking employment as a front end junior developer, based on experience from working in a creative agency, across either London and the south, or in the Sheffield area.
 
 ## Skills
@@ -16,7 +16,7 @@ I am comfortable communicating with and approaching colleagues to seek advice or
 
 #### Takes responsibility
 
-I can take responsibility for my own work and work well independently where necessary. Just months into my role as Junior Photographer for Noble Studios,
+I can take responsibility for my own work, working well independently where necessary. Just months into my role as Junior Photographer for Noble Studios,
 I successfully worked independently for London’s most famous toy store over the Christmas period. This happened for two years consecutively,
 having built up a good relationship with the client and exceeding their expectations.
 
@@ -29,12 +29,13 @@ This involved creating and following InDesign documents, whilst communicating wi
 
 #### Fast learner
 
-In my previous role as Photographer, I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to be focused and learn practical skills fast. I have put this ability into learning programming with Makers Academy, and have completely dedicated myself to taking on the challenge of a bootcamp style of learning, where I am fully emerged in programming every day.
+In my previous role as Photographer, I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to be focused and learn practical skills in a time conscious manner. I have put this ability into learning programming with Makers Academy, and have completely dedicated myself to taking on the challenge of a bootcamp style of learning, where I am fully emerged in programming every day.
 
 
 #### Committed
 
-I am extremely driven when exposed to an area I am interested in, for example I secured a job which started following my graduation whilst still at University studying photography - in London's largest commercial studio. Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day.
+I am extremely driven when exposed to an area I am interested in. For example whilst at University, I secured a job which started following my graduation in London's largest commercial photographic studio.
+Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day.
 
 
 ## Education
@@ -78,4 +79,4 @@ Responsibilities involve teaching children basic coding, and how to program micr
 **Big Sky Studios** (May 2015 - September 2015)
 *Photographic Assistant*
 
-Role involved looking after with high end clients, and setting up studio lighting.
+Role involved looking after high end clients, and setting up studio lighting.
