@@ -67,9 +67,12 @@ BA(hons) Photography 2:1
 
 **Noble Studios** (October 2015 - March 2017)
 *Junior Photographer*
+Commercial design and photographic agency
 
 **MakerClub** (August 2016 - March 2017)
 *Volunteer*
+Programming and robotics club for children aged 8-13
 
 **Big Sky Studios** (May 2015 - September 2015)
 *Photographic Assistant*
+London's largest commercial photographic studios
