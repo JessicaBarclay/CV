@@ -1,6 +1,6 @@
 ## Jessica Barclay
 
-Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practices for the software development workplace. Seeking employment as a full stack developer, across London, Brighton and the south.
+Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practices for the software development workplace. Seeking employment as a full stack developer across London, Brighton and the south.
 
 
 A former Commercial Photographer, boasting an impressive calibre of technical abilities, strong logical and problem solving skills combined with a creative flair. Jessica is using her technical and practical skill set, combined with a strong interest in the area to pursue a career in the world of programming. Her interest also stemmed from voluntary work at MakerClub, a programming and robotics club for children.
@@ -17,7 +17,7 @@ I am comfortable communicating with colleagues to seek advice or offer help, and
 
 #### Technical ability
 
-I have been involved in independent and group oriented programming projects with Makers Academy, using Ruby, Javascript, HTML5 and CSS3. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, and adaptable.
+I have been involved in independent and group oriented programming projects with Makers Academy, using Ruby, Javascript, HTML5 and CSS3. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, and readable.
 I also have professional photographic retouching skills using Adobe Photoshop, in my previous role I would supply images ready for e-commerce websites in my previous role, following client image specifications.
 
 
@@ -73,7 +73,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 *Volunteer Coach, Programming and Robotics Workshops for children*
 
-- Responsibilities involve teaching children basic coding using simplified C++
+- Responsibilities involved teaching children basic coding using simplified C++
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
 
