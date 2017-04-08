@@ -23,7 +23,7 @@ I have professional photographic retouching skills using Adobe Photoshop. This i
 
 #### Independent
 
-I can take responsibility for my own work, working well independently where necessary. Just months into my role as Junior Photographer for Noble Studios,
+I can take responsibility for my own work, working well independently where necessary. Just months into my role as Photographer for Noble Studios,
 I successfully worked independently with London’s most famous toy store, over the Christmas period. This happened for two years consecutively,
 having built up a good relationship with the client and exceeding their expectations.
 
@@ -62,6 +62,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 ## Experience
 
 **Noble Studios, Bournemouth** (October 2015 - March 2017)
+
 *Junior Photographer*
 
 *Commercial Design and Photographic agency*
@@ -71,14 +72,16 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 - Adobe InDesign CC
 
 **MakerClub, Bournemouth** (September 2016 - February 2017)
+
 *Volunteer programming coach*
 
-*MakerClub is a company which hosts programming and robotics workshops nationwide for children aged 8-13
+*MakerClub is a company which hosts programming and robotics workshops nationwide for children aged 8-13*
 
 - Responsibilities involve teaching children basic coding
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
 **Big Sky Studios, London** (May 2015 - September 2015)
+
 *Photographic Assistant*
 
 *Commercial Photographic Studio*
