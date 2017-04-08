@@ -63,9 +63,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 **Noble Studios, Bournemouth** (October 2015 - March 2017)
 
-*Junior Photographer*
-
-*Commercial Design and Photographic agency*
+*Junior Photographer, Commercial Design and Photographic agency*
 
 - Responsibilities involved studio photography for E-commerce websites, and advertising
 - Adobe Photoshop CC
@@ -73,18 +71,14 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 **MakerClub, Bournemouth** (September 2016 - February 2017)
 
-*Volunteer programming coach*
-
-*MakerClub is a company which hosts programming and robotics workshops nationwide for children aged 8-13*
+*Volunteer programming coach*, MakerClub, Bournemouth*
 
 - Responsibilities involve teaching children basic coding using simplified C++
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
 **Big Sky Studios, London** (May 2015 - September 2015)
 
-*Photographic Assistant*
-
-*Commercial Photographic Studio*
+*Photographic Assistant, Commercial Photographic Studio*
 
 - Role involved looking after high end clients, and setting up studio lighting
 - Strong communication and team work skills
