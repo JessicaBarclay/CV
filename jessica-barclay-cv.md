@@ -69,12 +69,14 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 - Adobe Photoshop CC
 - Adobe InDesign CC
 
+
 **MakerClub, Bournemouth** (September 2016 - February 2017)
 
-*Volunteer programming coach*, MakerClub, Bournemouth*
+*Volunteer programming coach, MakerClub, Bournemouth*
 
 - Responsibilities involve teaching children basic coding using simplified C++
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
+
 
 **Big Sky Studios, London** (May 2015 - September 2015)
 
