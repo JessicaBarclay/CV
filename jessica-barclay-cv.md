@@ -1,35 +1,36 @@
 ## Jessica Barclay
 
-A Software Developer in the making, with experience in a highly technical role. A former Commercial Photographer, with an impressive calibre of technical ability, and problem solving skills combined with a natural creative flair.
+Full stack developer specializing in Ruby and Javascript. A former Commercial Photographer, boasting an impressive calibre of technical abilities, strong logical and problem solving skills combined with a creative flair.
 
-Jessica has made the decision to use her logical and practical skill set in pursuit of a career in the world of programming. After working with web development teams on a day to day basis in the workplace, she has gained a strong interest in the area. Now on a committed journey in an intensive learning program with Makers Academy which is solely based on teaching best practice for the software development workplace.
-Seeking employment as a front end junior developer, based on experience from working in a creative agency, across either London and the south, or in the Sheffield area.
+Jessica is using her technical and practical skill set, combined with a strong interest in the area to pursue a career in the world of programming. Her interest also stemmed from voluntary work at MakerClub, a programming and robotics club for children.
+
+Completing an intensive learning program with Makers Academy which teaches best practices for the software development workplace. Seeking employment as a full stack developer, across London and the south.
 
 ## Skills
 
 
 #### Team player
 
-Having worked closely with designers and marketing at Noble Studios, we created technically sound work ready for advertising and the web.
-I am comfortable communicating with and approaching colleagues to seek advice or offer help, and have extensive experience in communicating with clients to achieve what they are looking for.
+I created technically sound work for advertising and the web, having worked closely with designers and marketing teams at Noble Studios.
+I am comfortable communicating with and approaching colleagues to seek advice or offer help, and have extensive experience in communicating with clients to achieve what they are looking for as I was expected to do on a daily basis.
 
 
-#### Takes responsibility
+#### Technical ability
+
+I have been involved in independent and group oriented programming projects, using Ruby, Javascript, HTML5 and CSS3. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, and adaptable.
+I have professional photographic retouching skills using Adobe Photoshop. This is from extensive experience supplying images ready for e-commerce websites in my previous role, following client image specifications.
+
+
+#### Independent
 
 I can take responsibility for my own work, working well independently where necessary. Just months into my role as Junior Photographer for Noble Studios,
-I successfully worked independently for London’s most famous toy store over the Christmas period. This happened for two years consecutively,
+I successfully worked independently with London’s most famous toy store, over the Christmas period. This happened for two years consecutively,
 having built up a good relationship with the client and exceeding their expectations.
-
-
-#### Adobe Creative Suite CC
-
-I am fully competent at a professional level in photographic retouching using Adobe Photoshop. This is from extensive experience supplying images ready for e-commerce websites, following client image specifications.
-This involved creating and following InDesign documents, whilst communicating with design and web teams.
 
 
 #### Fast learner
 
-In my previous role as Photographer, I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to be focused and learn practical skills in a time conscious manner. I have put this ability into learning programming with Makers Academy, and have completely dedicated myself to taking on the challenge of a bootcamp style of learning, where I am fully emerged in programming every day.
+In my previous role as Photographer, I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to be focused and learn practical skills in a time conscious manner. I have put this ability into learning with Makers Academy, and have completely dedicated myself to taking on the challenge of a bootcamp style of learning, where I am fully emerged in programming every day.
 
 
 #### Committed
@@ -37,18 +38,16 @@ In my previous role as Photographer, I was expected to work at an efficient pace
 Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day. I am extremely driven particularly when exposed to an area I am interested in. For example whilst at University, I secured a job in London's largest commercial photographic studio which I started following my graduation.
 
 
-
 ## Education
 
 #### Makers Academy (April 2017 - June 2017)
 
-- Team player
-- Fast learner
-- Logical
 - Problem solver
-- OOP, TDD, SOLID, MVC, DDD, Agile
+- Independent Learner
+- Strong interest in new technologies
 - Ruby, Rails, Javascript, HTML5, CSS3
-- Sinatra, Node.js, Angular.js, Rspec, Heroku
+- Sinatra, Node.js, Angular.js, Heroku
+- OOP, TDD, Rspec
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
@@ -58,22 +57,24 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 - A-levels in Photography, Graphic Design, Sociology and General Studies
 
-- GCSEs x 11 including English, Maths and Science
+- GCSEs x 11 including Maths, English and Science
 
-- Gifted and Talented award - Achieved in Mathematics during secondary education
+- Gifted and Talented award in Mathematics, acquired during secondary education
 
 ## Experience
 
 **Noble Studios, Bournemouth** (October 2015 - March 2017)
 *Junior Photographer*
+
 *Commercial Design and Photographic agency*
 
 - Responsibilities involved studio photography for E-commerce websites, and advertising
-- Strong practical skill set including professional retouching
-- Team working skills
+- Adobe Photoshop CC
+- Adobe InDesign CC
 
-**MakerClub, Barclays Eagle Labs. Bournemouth** (September 2016 - February 2017)
-*Volunteer*
+**MakerClub, Bournemouth** (September 2016 - February 2017)
+*Volunteer programming coach*
+
 *MakerClub is a company which hosts programming and robotics workshops nationwide for children aged 8-13
 
 - Responsibilities involve teaching children basic coding
@@ -81,5 +82,12 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 **Big Sky Studios, London** (May 2015 - September 2015)
 *Photographic Assistant*
-Commercial Photographic Studio
-Role involved looking after high end clients, and setting up studio lighting.
+
+*Commercial Photographic Studio*
+
+- Role involved looking after high end clients, and setting up studio lighting
+- Strong communication and team work skills
+
+## Notes
+
+*Reference available on request*
