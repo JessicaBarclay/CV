@@ -11,8 +11,8 @@ Completing an intensive learning program with Makers Academy which teaches best 
 
 #### Team player
 
-I created technically sound work for advertising and the web, having worked closely with designers and marketing teams at Noble Studios.
-I am comfortable communicating with and approaching colleagues to seek advice or offer help, and have extensive experience in communicating with clients to achieve what they are looking for as I was expected to do on a daily basis.
+As Photographer at Noble Studios I created technically sound work for advertising and the web, working closely with designers and marketing teams.
+I am comfortable communicating with colleagues to seek advice or offer help, and have extensive experience in communicating with clients to achieve what they are looking for, as I was expected to do this on a daily basis.
 
 
 #### Technical ability
@@ -47,7 +47,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 - Strong interest in new technologies
 - Ruby, Rails, Javascript, HTML5, CSS3
 - Sinatra, Node.js, Angular.js, Heroku
-- OOP, TDD, Rspec
+- OOP, TDD, Rspec, Git and version control
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
@@ -56,9 +56,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 #### King Edward VII - Sheffield (September 2004 - May 2011)
 
 - A-levels in Photography, Graphic Design, Sociology and General Studies
-
 - GCSEs x 11 including Maths, English and Science
-
 - Gifted and Talented award in Mathematics, acquired during secondary education
 
 ## Experience
