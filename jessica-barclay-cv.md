@@ -77,7 +77,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 *MakerClub is a company which hosts programming and robotics workshops nationwide for children aged 8-13*
 
-- Responsibilities involve teaching children basic coding
+- Responsibilities involve teaching children basic coding using simplified C++
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
 **Big Sky Studios, London** (May 2015 - September 2015)
