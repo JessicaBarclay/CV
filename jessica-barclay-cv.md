@@ -72,7 +72,7 @@ Learning to code is an enjoyable challenge, and I recognize that it is part of t
 
 **MakerClub, Bournemouth** (September 2016 - February 2017)
 
-*Volunteer programming coach, MakerClub, Bournemouth*
+*Volunteer coach, programming and robotics workshops*
 
 - Responsibilities involve teaching children basic coding using simplified C++
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
