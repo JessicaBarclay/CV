@@ -2,9 +2,11 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-  Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practices for the software development workplace. Seeking employment as a full stack developer across London and the south.
+  Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practice for the software development workplace. Seeking employment as a full stack developer across London and the south.
 
-  A former Commercial Photographer, boasting an impressive calibre of technical skills, a methodical problem solving approach combined with a creative flair. Making use of this skill set, paired with a keen interest in the area stemming from voluntary work at a programming and robotics club for children - Jessica is currently pursuing a career in the world of programming.
+  A former Commercial Photographer, boasting an impressive calibre of technical skills, and a methodical approach to problem solving combined with a creative flair. Her interest in programming stemmed from working with web development teams in the workplace, as well as participating in voluntary work at a programming and robotics club for children.
+
+  Having a strong transferable skill set, paired with a keen interest in the programming - Jessica is currently pursuing a career in the world of programming.
 
 
 ## Skills
