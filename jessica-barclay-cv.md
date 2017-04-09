@@ -1,42 +1,43 @@
 ## Jessica Barclay
 
-Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practices for the software development workplace. Seeking employment as a full stack developer across London and the south.
+  <p align="center">
+  Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practices for the software development workplace. Seeking employment as a full stack developer across London and the south.
 
 
-A former Commercial Photographer, boasting an impressive calibre of technical skills, a methodical problem solving approach combined with a creative flair. Making use of this skill set, paired with a keen interest in the area stemming from voluntary work at a programming and robotics club for children - Jessica is currently pursuing a career in the world of programming.
-
+  A former Commercial Photographer, boasting an impressive calibre of technical skills, a methodical problem solving approach combined with a creative flair. Making use of this skill set, paired with a keen interest in the area stemming from voluntary work at a programming and robotics club for children - Jessica is currently pursuing a career in the world of programming.
+  </p>
 
 ## Skills
 
 
 #### Team player
 
-As a Photographer at Noble Studios I created work for advertising and the web, working closely with designers and marketing teams.
-It was a productive working environment as I am comfortable communicating with colleagues to seek advice or offer help.
+  As a Photographer at Noble Studios I created work for advertising and the web, working closely with designers and marketing teams.
+  It was a productive working environment as I am comfortable communicating with colleagues to seek advice or offer help.
 
-On a daily basis I would discuss the details of briefs with clientele, explaining the technical aspects of the photography and addressing any ongoing changes.
+  On a daily basis I would discuss the details of briefs with clientele, explaining the technical aspects of the photography and addressing any ongoing changes.
 
 
 #### Technical ability
 
-I have been a team player in challenging programming projects with Makers Academy using Ruby, Javascript, HTML5 and CSS3. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, and logical.
+  I have been a team player in challenging programming projects with Makers Academy using Ruby, Javascript, HTML5 and CSS3. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, and logical.
 
-As a Commercial Photographer I had the responsibility of creating technically sound, creative work for advertising and e-commerce. I have professional retouching skills using Adobe Photoshop from my previous role, where I would supply images following client specifications.
+  As a Commercial Photographer I had the responsibility of creating technically sound, creative work for advertising and e-commerce. I have professional retouching skills using Adobe Photoshop from my previous role, where I would supply images following client specifications.
 
 
 #### Independent and takes responsibility
 
-Just months into my role with Noble Studios, I was assigned to work independently for a new, highly regarded client. I had to learn new skills fast whilst I worked with London's most famous toy store. This happened during the Christmas period for two years consecutively, having built up a good relationship with the client and exceeding their expectations.
+  Just months into my role with Noble Studios, I was assigned to work independently for a new, highly regarded client. I had to learn new skills fast whilst I worked with London's most famous toy store. This happened during the Christmas period for two years consecutively, having built up a good relationship with the client and exceeding their expectations.
 
 
 #### Fast learner
 
-As a Commercial Photographer, I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to learn technical skills in a time conscious manner. I have put this ability into learning with Makers Academy, and have completely dedicated myself to taking on the challenge of a bootcamp style of learning, where I am fully emerged in programming every day.
+  As a Commercial Photographer, I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to learn technical skills in a time conscious manner. I have put this ability into learning with Makers Academy, and have completely dedicated myself to taking on the challenge of a bootcamp style of learning, where I am fully emerged in programming every day.
 
 
 #### Committed
 
-Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day. I am extremely driven particularly when exposed to an area I am interested in. This is evident in that whilst at University, I secured a job in London's largest commercial photographic studio which I started following my graduation.
+  Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day. I am extremely driven particularly when exposed to an area I am interested in. This is evident in that whilst at University, I secured a job in London's largest commercial photographic studio which I started following my graduation.
 
 
 ## Education
