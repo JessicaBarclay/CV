@@ -14,7 +14,7 @@
 
   I worked on several challenging team projects at Makers Academy. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Rails, team mates spoke of how my implementation of a 'Like' voting feature was clean, DRY and logical.
 
-  I have written code in pairs and in teams of all sizes from 3 to 17. This has exposed me to learning key communicative skills, such as reviewing one another's code on Github and discussing.
+  I have written code in pairs and in teams of all sizes from 3 to 17. This has exposed me to learning key communicative skills, such as reviewing one another's code on Github.
 
 
 #### _Fast learner_
@@ -25,7 +25,7 @@ I have put this ability into learning software development, for example - learni
 
 #### _Communication_
 
-  As a Photographer at [Noble Studios](https://www.noblestudios.co.uk/creative-product/) I created work for advertising and e-commerce, working closely with designers and marketing teams.
+  As a Photographer at Noble Studios I created work for advertising and e-commerce, working alongside designers and marketing teams.
   Communication across teams was vital, and I enjoyed supporting and gaining knowledge from my co-workers.
 
 
