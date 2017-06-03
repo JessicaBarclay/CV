@@ -2,11 +2,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/)
 
-  Full Stack Developer embarking on an intensive learning program with Makers Academy, being taught best practice for the software development workplace. Former Commercial Photographer boasting many technical skills combined with a creative flair.
+  Full Stack Developer embarking on an intensive learning program with Makers Academy, being taught best practice for the software development workplace. Former Commercial Photographer boasting a strong technical ability, combined with a creative flair.
 
   Committed coder with an interest stemming from working with web teams in the workplace, and from building robots using micro-controllers! Approaches problem solving in a considered manner interested in writing clean, maintainable code.
-
-  Equipped with a strong transferable skill set, paired with a keen interest in the software development - Jessica is currently pursuing a career in the world of programming.
 
 
 ## Skills
