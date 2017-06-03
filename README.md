@@ -1,6 +1,6 @@
 ## Jessica Barclay
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/) | [Interests](#interests)
 
   I am a Full Stack Developer in the making specializing in Ruby and Javascript. Currently embarking on an intensive learning program with Makers Academy which teaches best practice for the software development workplace. Seeking employment as a full stack developer across London and the south.
 
@@ -39,6 +39,11 @@
 
   Learning to code is an enjoyable challenge, and I recognize that it is part of the role of a developer to continue learning day to day. I am extremely driven particularly when exposed to an area I am interested in. This is evident in that whilst at University, I secured a job in London's largest commercial photographic studio which I started following my graduation.
 
+
+## Projects
+
+[AirBnB clone](https://github.com/JessicaBarclay/AirBnB-clone) - Our first team project at Makers involved making a clone of Airbnb using Sinatra MVC and Ruby.
+[Animated Weather API](https://github.com/JessicaBarclay/Thermostat-Javascript) - Javascript week 1 led us to creating an app which utilises a weather API built in JS and jQuery.
 
 ## Education
 
