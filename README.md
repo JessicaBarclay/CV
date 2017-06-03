@@ -2,11 +2,11 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-  Full Stack Developer specializing in Ruby and Javascript. Completing an intensive learning program with Makers Academy which teaches best practice for the software development workplace. Seeking employment as a full stack developer across London and the south.
+  I am a Full Stack Developer in the making specializing in Ruby and Javascript. Currently embarking on an intensive learning program with Makers Academy which teaches best practice for the software development workplace. Seeking employment as a full stack developer across London and the south.
 
-  A former Commercial Photographer, boasting an impressive calibre of technical skills, and a methodical approach to problem solving combined with a creative flair. Her interest in programming stemmed from working with web development teams in the workplace, as well as participating in voluntary work at a programming and robotics club for children.
+  A former Commercial Photographer boasting an impressive calibre of technical skills, and a methodical approach to problem solving combined with a creative flair. My interest in programming stemmed from working with web development teams in the workplace, as well as participating in voluntary work at a programming and robotics club for children.
 
-  Having a strong transferable skill set, paired with a keen interest in the programming - Jessica is currently pursuing a career in the world of programming.
+  Having a strong transferable skill set, paired with a keen interest in the programming - I am currently pursuing a career in the world of programming.
 
 
 ## Skills
@@ -14,15 +14,15 @@
 
 #### Team player
 
-  As a Photographer at Noble Studios I created work for advertising and the web, working closely with designers and marketing teams.
-  It was a productive working environment as I am comfortable communicating with colleagues to seek advice or offer help.
+  As a Photographer at Noble Studios I created work for advertising, e-commerce and the web, working closely with designers and marketing teams.
+  It was a productive working environment where communication was a key value expected from every team member.
 
   On a daily basis I would discuss the details of briefs with clientele, explaining the technical aspects of the photography and addressing any ongoing changes.
 
 
 #### Technical ability
 
-  I have been a team player in challenging programming projects with Makers Academy using Ruby, Javascript, HTML5 and CSS3. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, and logical.
+  I have been a team player in challenging programming projects with Makers Academy using Ruby, Javascript, Rails and other MVC frameworks. Whilst implementing a challenging function in a Ruby project, course mates spoke of how my work was clean, DRY and logical.
 
   As a Commercial Photographer I had the responsibility of creating technically sound, creative work for advertising and e-commerce. I have professional retouching skills using Adobe Photoshop from my previous role, where I would supply images following client specifications.
 
@@ -49,8 +49,8 @@
 - Logical problem solver
 - Independent Learner
 - Tech enthusiast with a creative edge
-- Ruby, Rails, Javascript, HTML5, CSS3
-- OOP, TDD, RSpec, Git and version control
+- Ruby, Rails, Javascript, jQuery, Node, HTML
+- OOP, TDD, BDD, Git and version control
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
@@ -84,7 +84,7 @@
 
 *Photographic Assistant, Commercial Photographic Studio*
 
-- Role involved looking after high end clients, and setting up studio lighting
+- Role involved looking after high end clients, and being technically aware of photographic equipment
 
 ## Interests
 
