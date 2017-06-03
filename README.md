@@ -1,6 +1,6 @@
 ## Jessica Barclay
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/) | [Interests](#interests)
 
   I am a Full Stack Developer in the making specializing in Ruby and Javascript. Currently embarking on an intensive learning program with Makers Academy which teaches best practice for the software development workplace. Seeking employment as a full stack developer across London and the south.
 
@@ -15,9 +15,7 @@
 #### Team player
 
   As a Photographer at Noble Studios I created work for advertising, e-commerce and the web, working closely with designers and marketing teams.
-  It was a productive working environment where communication was a key value expected from every team member.
-
-  On a daily basis I would discuss the details of briefs with clientele, explaining the technical aspects of the photography and addressing any ongoing changes.
+  It was a productive working environment where communication was a key value expected from every team member. I would discuss the details of creative briefs with clientele, explaining the technical aspects of the photography and addressing any ongoing changes.
 
 
 #### Technical ability
