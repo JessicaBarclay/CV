@@ -42,8 +42,8 @@
 
 ## Projects
 
-[AirBnB clone](https://github.com/JessicaBarclay/AirBnB-clone) - Our first team project at Makers involved making a clone of Airbnb using Sinatra MVC and Ruby.
-[Animated Weather API](https://github.com/JessicaBarclay/Thermostat-Javascript) - Javascript week 1 led us to creating an app which utilises a weather API built in JS and jQuery.
+[AirBnB clone](https://github.com/JessicaBarclay/AirBnB-clone) - A team project at Makers involving creating a clone of Airbnb using Sinatra MVC and Ruby.
+[Animated Weather API](https://github.com/JessicaBarclay/Thermostat-Javascript) - Introduction to Javascript week led us to creating an app which utilises a weather API built in JS and jQuery.
 
 ## Education
 
