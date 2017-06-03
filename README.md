@@ -18,7 +18,7 @@
   It was a productive working environment where communication was a key value expected from every team member.
 
 
-  I have worked on several team projects at Makers Academy. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Rails, team mates spoke of how my implementation of a 'Like' voting feature was clean, Dry and logical.
+  I have worked on several team projects at Makers Academy. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Rails, team mates spoke of how my implementation of a 'Like' voting feature was clean, DRY and logical.
 
 
 #### Fast learner
@@ -33,7 +33,7 @@
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram independently, using Ruby on Rails in 48 hours!  | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
+| [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram using Ruby on Rails in 48 hours!  | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
 |[Acebook](https://github.com/JessicaBarclay/Acebook)| A true test of team work - 17 Makers students recreating Facebook in one week | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL|
 | [Animated Weather API](https://github.com/JessicaBarclay/Thermostat-Javascript) | My first encounter with JavaScript involved building an application that utilises a weather api. The user can enter their city of choice an see the temperature instantly. | JavaScript, jQuery, CSS, HTML |
 
