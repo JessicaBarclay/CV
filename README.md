@@ -1,6 +1,6 @@
 ## Jessica Barclay
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/)
+[Projects](#projects) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/)
 
   Full Stack Developer embarking on an intensive learning program with Makers Academy, being taught best practice for the software development workplace. Former Commercial Photographer boasting a strong technical ability, combined with a creative flair.
 
