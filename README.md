@@ -1,9 +1,11 @@
 ## Jessica Barclay
 
-[Projects](#projects) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/)
+[Projects](#projects) | [Experience](#experience) | [Blog](https://medium.com/@jessicabarclay.net) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/)
 
 Full Stack Junior Developer and survivor of the selective programming bootcamp that is [Makers Academy](http://www.makersacademy.com/).
-I have dedicated four months to extending my problem solving capability, computational thinking and becoming a knowledge worker. I am a committed coder with a creative flare whose interest in programming stems from working alongside web teams in the work place as a former Commercial Photographer.
+I have dedicated four months to extending my problem solving capability, computational thinking and becoming a knowledge worker.
+
+I am a committed coder with a creative flare whose interest in programming stems from working alongside web teams in the work place as a former Commercial Photographer.
 
 **Tech Skills**: JavaScript, Ruby, Node.js, Rails, Sinatra, HTML, CSS, jQuery, Bootstrap and SQL database engines.
 
@@ -13,26 +15,26 @@ I have dedicated four months to extending my problem solving capability, computa
 
 #### _Knowledge worker_
 
-The single most important skill I have taken away from Makers, learning how to learn. For example - learning JavaScript in one week to build a [test-driven application](https://github.com/JessicaBarclay/Thermostat-Javascript) that utilises a weather API , and a week later building my own vanilla JavaScript MVC and testing library.
+* The single most important skill I have taken away from Makers, learning how to learn. For example - learning JavaScript in one week to build a [test-driven application](https://github.com/JessicaBarclay/Thermostat-Javascript) that utilises a weather API , and a week later building my own vanilla JavaScript MVC and testing library.
 
 #### _Fast learner_
 
-I have the capability to approach and begin building in new programming languages, frameworks and testing frameworks, by putting my knowledge from other languages to work.
+* I have the capability to approach and begin building in new programming languages, frameworks and testing frameworks, by putting my knowledge from other languages to work.
 
-I naturally absorb new technical skills in the workplace. In my previous role as Photographer I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to learn technical skills in a time conscious manner.
+* I naturally absorb new technical skills in the workplace. In my previous role as Photographer I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to learn technical skills in a time conscious manner.
 
 
 #### _Team work_
 
-During my time at Makers Academy I worked on several challenging team projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Rails, team mates spoke of how my implementation of a 'Like' voting feature was clean, DRY and logical.
+* During my time at Makers Academy I worked on several challenging team projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Rails, team mates spoke of how my implementation of a 'Like' voting feature was clean, DRY and logical.
 
-My experience of coding in a team has been in an Agile environment. For example, when working in a team building applications such as type racer a using vanilla JavaScript, we would stand-up every morning and discuss what we had learned from the previous day. We regularly reviewed one another's code and ended each day with a chance the feedback and reflect.
+* My experience of coding in a team has been in an Agile environment. For example, when working in a team building applications such as type racer a using vanilla JavaScript, we would stand-up every morning and discuss what we had learned from the previous day. We regularly reviewed one another's code and ended each day with a chance the feedback and reflect.
 
 #### _Communication_
 
-Makers exposed me to learning key communicative skills, such as reviewing one another's code on Github. My coach spoke of how our cohort was thorough or showed a real interest in receiving feedback to improve upon our work.
+* Makers exposed me to learning key communicative skills, such as reviewing one another's code on Github. My coach spoke of how our cohort was thorough or showed a real interest in receiving feedback to improve upon our work.
 
-As a Photographer at Noble Studios I created work for advertising and e-commerce, working alongside designers and marketing teams.
+* As a Photographer at Noble Studios I created work for advertising and e-commerce, working alongside designers and marketing teams.
 Communication across teams was vital, and I enjoyed supporting and gaining knowledge from my co-workers.
 
 
@@ -53,8 +55,9 @@ Communication across teams was vital, and I enjoyed supporting and gaining knowl
 - Agile methodologies
 - Pair programming
 - Test-driven development
-- Team work
-- Object-Oriented Programming, BDD, Git
+- Software craftsmanship
+- Object-Oriented Programming<br><br>
+**Tech skills:** JavaScript, Ruby, Node.js, Rails, Sinatra, HTML, CSS, jQuery, Bootstrap and SQL database engines.
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
@@ -92,6 +95,6 @@ Photographic Assistant | *Commercial Photographic Studio*
 
 ## Interests
 
-- **Rock climbing and hiking** *Benefits of growing up near the Peak district*
-- **Film Photography**
-- **Building robots using micro-controllers!**
+- **Rock climbing and hiking** *Benefits of growing up so close to the Peak district*
+- **Film Photography** *I love pausing to enjoy the versatility of such timeless technology*
+- **Building robots using micro-controllers!** *I also really enjoy new tech, thanks to Maker Club!*
