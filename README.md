@@ -9,19 +9,19 @@ I have dedicated four months to focusing on problem solving capability, computat
 ## Skills
 
 
-#### Knowledge worker
+### Knowledge worker
 
 * The single most important skill I have taken away from Makers, is learning how to learn. <br><br>
 * For example - building a test-driven application in JavaScript that utilises a weather API, and a week later building my own vanilla JavaScript MVC and testing library.
 
-#### Fast learner
+### Fast learner
 
 * I have the capability to approach and begin building in new programming languages and MVC frameworks, by putting my knowledge of programming in other languages to work.
 
 * I naturally absorb new technical skills in the workplace. In my previous role as a Commercial Photographer I was expected to work at an efficient pace to meet tight deadlines, thus meaning that I had to learn technical skills in a time conscious manner.
 
 
-#### Team work
+### Team work
 
 * During my time at Makers Academy I worked on several challenging team projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Rails, team mates spoke of how my implementation of a 'Like' voting feature was clean, DRY and logical.
 
@@ -29,7 +29,7 @@ I have dedicated four months to focusing on problem solving capability, computat
 
 * At Makers we regularly reviewed one another's code and ended each day with a chance to feedback and reflect.
 
-#### Communication
+### Communication
 
 * Makers exposed me to learning key communicative skills, such as reviewing one another's code on Github. Feeding back and reflecting on one another's code was a really rewarding way to gain clarity on ones ability, and to understand others code.
 
