@@ -4,7 +4,7 @@
 
 Full Stack Junior Developer and survivor of the selective programming bootcamp Makers Academy.
 
-In my previous career, I translated User stories into Commercial Photography. I would communicate technical ideas in a non-technical manner, to clientele, and to design and marketing teams.
+In my previous career, I translated User stories into Commercial Photography. I would communicate technical ideas in a non-technical manner, to clientele, and to design and marketing teams.<br><br>
 
 I have dedicated six months to focusing on my problem solving capability and creating well crafted code. My commitment to a career in programming, stems from working alongside web teams in the work place in my previous role. As well as an unashamed interest in building robots using micro-controllers!<br>
 
