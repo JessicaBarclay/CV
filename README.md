@@ -6,7 +6,7 @@ Full Stack Junior Developer and survivor of the selective programming bootcamp M
 
 In my previous career, I translated User stories into Commercial Photography. I would communicate technical ideas in a non-technical manner, to clientele, and to design and marketing teams.
 
-I have dedicated six months to focusing on my problem solving capability and creating well crafted code.<br><br>My commitment to a career in programming stems from working alongside web teams in the work place as a former Commercial Photographer. As well as a unashamed interest in building robots using micro-controllers!<br>
+I have dedicated six months to focusing on my problem solving capability and creating well crafted code. My commitment to a career in programming stems from working alongside web teams in the work place as a former Commercial Photographer. As well as a unashamed interest in building robots using micro-controllers!<br>
 
 **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL.
 
@@ -14,7 +14,7 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 ### Fast learner
 
-* The single most important skill I was taught at Makers Academy, is learning how to learn. <br><br>
+* The single most important skill I was taught at Makers Academy, is learning how to learn.<br>
 
   For example, building a test-driven application in JavaScript that utilises a weather API. A week later, building on this knowledge, I constructed my own vanilla JavaScript MVC and testing library.
 
@@ -58,9 +58,9 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 - Git version control and code reviewing
 
-- Object-Oriented Programming<br><br>
+- Object-Oriented Programming
 
-- Front-end and back-end MVC frameworks
+- Front-end and back-end MVC frameworks<br><br>
 
   **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL, TDD, BDD.
 
@@ -84,7 +84,6 @@ _**Junior Commercial Photographer | Creative agency**_
 
 - Adobe Creative Suite CC
 
-  ​
 
 
 **[MakerClub](https://makerclub.org/) Bournemouth** _September 2016 - February 2017_
@@ -95,7 +94,6 @@ _**Volunteer Coach | Programming and Robotics for children**_
 
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
-  ​
 
 
 **[Big Sky Studios](http://www.bigskylondon.com/) London** _May 2015 - September 2015_
