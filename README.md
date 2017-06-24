@@ -24,7 +24,7 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 - Whilst building a React Native iOS app as our final project, team mates spoke of how I have focused, researching skills and a methodical approach to mastering new skills, benfeting greatly to the whole team.
 
-### Team work
+### Team Player
 
 * During my time at Makers Academy I worked on several challenging team projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Ruby on Rails, team mates spoke of how my implementation of a persistant 'Like' voting feature was clean, DRY and logical.
 * My experience of coding in a team has been in an Agile environment. For example, when working in a team building a type racer application using vanilla JavaScript, we would start every day by focussing on meeting our MVP, reviewing one another's code and continuously deploying new features.
