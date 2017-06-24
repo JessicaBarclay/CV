@@ -20,7 +20,7 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 * In my previous career as a Commercial Photographer, I was expected to work at an efficient pace to meet tight deadlines. I had to learn new technical skills every day, in a time conscious manner.
 
-### Research
+### Research skills
 
 - Whilst building a React Native iOS app as our final project, team mates spoke of how I have focused, researching skills and a methodical approach to mastering new skills, benfeting greatly to the whole team.
 
