@@ -1,12 +1,12 @@
 ## Jessica Barclay
 
-[Projects](#projects) | [Experience](#experience) | [Blog](https://medium.com/@jessicabarclay.net) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/)
+[Projects](#projects) | [Experience](#experience) | [Blog](https://medium.com/@jessicabarclay.net) | [LinkedIn](https://www.linkedin.com/in/jessica-barclay-bab35b10b/) | [Github](https://github.com/JessicaBarclay)
 
 Full Stack Junior Developer and survivor of the selective programming bootcamp Makers Academy.
 
 In my previous career, I translated User stories into Commercial Photography. I would communicate technical ideas in a non-technical manner, to clientele, and to design and marketing teams.<br><br>
 
-I have dedicated six months to focusing on my problem solving capability and creating well crafted code. My commitment to a career in programming, stems from working alongside web teams in the work place in my previous role. As well as an unashamed interest in building robots using micro-controllers!<br>
+I have dedicated six months to focusing on my problem solving capability and creating well crafted code. My commitment to a career in programming stems from working alongside web teams in the workplace in my previous role.
 
 **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL.
 
@@ -27,7 +27,7 @@ I have dedicated six months to focusing on my problem solving capability and cre
 ### Team Player
 
 * During my time at Makers Academy I worked on several challenging team projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Ruby on Rails, team mates spoke of how my implementation of a persistant 'Like' voting feature was clean, DRY and logical.
-* My experience of coding in a team has been in an Agile environment. For example, when working in a team building a type racer application using vanilla JavaScript, we would start every day by focussing on meeting our MVP, reviewing one another's code and continuously deploying new features.
+* My experience of coding in a team has been in an Agile environment. For example, when working in a team building a JavaScript type racer application, we would start every day by focussing on meeting our MVP, reviewing one another's code and continuously deploying new features.
 
 ### Communication
 
@@ -60,7 +60,7 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 - Object-Oriented Programming
 
-- Front-end and back-end MVC frameworks<br><br>
+- MVC frameworks<br><br>
 
   **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL, TDD, BDD.
 
