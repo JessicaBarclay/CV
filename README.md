@@ -8,7 +8,7 @@ In my previous career, I translated User stories into Commercial Photography. I 
 
 I am interested in writing well crafted code, and satisfying my hunger for continuous learning. My commitment to a career in programming stems from working alongside web teams in the workplace in my previous role.
 
-**Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL, RESTful APIs.
+**Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, SQL, RESTful APIs.
 
 ## Skills
 
@@ -53,6 +53,8 @@ I am interested in writing well crafted code, and satisfying my hunger for conti
 
 - Agile methodologies
 
+- XP values
+
 - Test-driven development
 
 - Software craftsmanship
@@ -63,7 +65,7 @@ I am interested in writing well crafted code, and satisfying my hunger for conti
 
 - MVC frameworks<br><br>
 
-  **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL, TDD, BDD.
+  **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, SQL, TDD, BDD, RESTful APIs.
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
