@@ -4,29 +4,30 @@
 
 Full Stack Junior Developer and survivor of the selective programming bootcamp Makers Academy.
 
-In my previous career, I translated User stories into Commercial Photography. I would communicate technical ideas in a non-technical manner, to clientele, and to design and marketing teams.<br><br>
+In my previous career, I translated User stories into Commercial Photography. I would communicate technical ideas to non-technical clientele, and to design and marketing teams.
 
-I have dedicated six months to focusing on my problem solving capability and creating well crafted code. My commitment to a career in programming stems from working alongside web teams in the workplace in my previous role.
+I am interested in writing well crafted code, and satisfying my hunger for continuous learning. My commitment to a career in programming stems from working alongside web teams in the workplace in my previous role.
 
-**Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL.
+**Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, SQL, RESTful APIs.
 
 ## Skills
 
 ### Fast learner
 
-* The single most important skill I was taught at Makers Academy, is learning how to learn.<br>
+* The single most important skill I was taught at Makers Academy, is learning how to learn.
 
-  For example, building a test-driven application in JavaScript that utilises a weather API. A week later, building on this knowledge, I constructed my own vanilla JavaScript MVC and testing library.
+  For example, with seven days experience of working with JavaScript I built my own vanilla JavaScript MVC and testing library.
 
-* In my previous career as a Commercial Photographer, I was expected to work at an efficient pace to meet tight deadlines. I had to learn new technical skills every day, in a time conscious manner.
+* In my previous career as a Commercial Photographer, I would learn new technical skills every day, and apply them to live briefs. This ability has transferred into how I building upon my programming skill set.
 
 ### Research skills
 
-- Whilst building a React Native iOS app as our final project, team mates spoke of how I have focused, researching skills and a methodical approach to mastering new skills, benfeting greatly to the whole team.
+- Whilst building a React Native iOS app, team mates spoke of how I have focused, researching skills and a methodical approach to mastering new skills, benefiting greatly to the whole team.
 
 ### Team Player
 
-* During my time at Makers Academy I worked on several challenging team projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Ruby on Rails, team mates spoke of how my implementation of a persistant 'Like' voting feature was clean, DRY and logical.
+* During my time at Makers Academy I worked on several challenging collaborative projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Ruby on Rails, team mates spoke of how my implementation of a persistent 'Like' voting feature was clean, DRY and logical.
+
 * My experience of coding in a team has been in an Agile environment. For example, when working in a team building a JavaScript type racer application, we would start every day by focussing on meeting our MVP, reviewing one another's code and continuously deploying new features.
 
 ### Communication
@@ -40,7 +41,7 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 |                 Project                  |               Description                | Technologies                             |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------- |
-| [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in vanilla JavaScript | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
+| [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
 | [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram using Ruby on Rails in 48 hours! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
 | [Acebook](https://github.com/JessicaBarclay/Acebook) | A true test of team work - 17 Makers students recreating Facebook. | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
 
@@ -72,13 +73,12 @@ I have dedicated six months to focusing on my problem solving capability and cre
 
 - A-levels in Photography, Graphic Design and Sociology
 - GCSEs x 11 including Maths, English and Science
-- Gifted and Talented award in Mathematics, acquired during secondary education
 
 ## Experience
 
-**[Noble Studios](https://www.noblestudios.co.uk/creative-product/) Bournemouth** _October 2015 - March 2017_
 
-_**Junior Commercial Photographer | Creative agency**_
+**Junior Commercial Photographer | [Noble Studios](https://www.noblestudios.co.uk/creative-product/)** _October 2015 - March 2017_
+
 
 - Studio photography for e-commerce websites, and advertising
 
@@ -86,21 +86,18 @@ _**Junior Commercial Photographer | Creative agency**_
 
 
 
-**[MakerClub](https://makerclub.org/) Bournemouth** _September 2016 - February 2017_
 
-_**Volunteer Coach | Programming and Robotics for children**_
+**Programming and Robotics Coach | [MakerClub](https://makerclub.org/)** _September 2016 - February 2017_
 
 - Teaching children aged 8-13 basic coding, using simplified C++
 
 - Teaching the programming of micro-controllers, similar to the Arduino and Raspberry Pi
 
 
-
-**[Big Sky Studios](http://www.bigskylondon.com/) London** _May 2015 - September 2015_
-
-_**Photographic Assistant | Commercial Photographic Studio**_
+**Photographic Assistant | [Big Sky Studios](http://www.bigskylondon.com/) London** _May 2015 - September 2015_
 
 - Assembling Photographic equipment and lighting for commercial shoots
+
 - Team work in a busy bustling environment
 
 ## Interests
