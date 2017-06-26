@@ -63,9 +63,9 @@ I am interested in writing well crafted code, and satisfying my hunger for conti
 
 - Object-Oriented Programming
 
-- MVC frameworks<br><br>
+- MVC frameworks
 
-  **Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, SQL, TDD, BDD, RESTful APIs.
+**Tech Skills:** JavaScript, Ruby, Node.js, React.js, Ruby on Rails, Sinatra, HTML, CSS, jQuery, SQL, TDD, BDD, RESTful APIs.
 
 #### Arts University Bournemouth (September 2012 - May 2015)
 
