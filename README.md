@@ -41,6 +41,7 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 
 |                 Project                  |               Description                | Technologies                             |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------- |
+| [BeeAppy](https://github.com/JessicaBarclay/Beehave) | React Native iOS app with Rails backend. Raising awareness for Bees! Tag Bees at your location, view facts about Bees and perhaps donate! | React, JavaScript ES6, Node.js, Jest, Enzyme, Ruby on Rails API, PostgreSQL |
 | [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
 | [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram using Ruby on Rails in 48 hours! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
 | [Acebook](https://github.com/JessicaBarclay/Acebook) | A true test of teamwork - 17 Makers students recreating Facebook. | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
