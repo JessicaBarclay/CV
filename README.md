@@ -18,7 +18,7 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 
   For example, in our final project at Makers, we successfully built a iOS and Android compatible app using React Native, Ruby on Rails, and PostgreSQL - with no prior experience building mobile applications. 
 
-* In my previous career as a Commercial Photographer, I would learn new technical skills every day, and apply them to live briefs. Learning by doing allowed me to work with high profile clients in the early stages of my career.
+* In my previous career as a Commercial Photographer, I would learn new technical skills every day and apply them to live briefs. Learning by doing allowed me to work with high profile clients in the early stages of my career.
 
 ### Research skills
 
@@ -31,7 +31,7 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 ### Communication
 
 * Makers taught me key skills, such as reviewing my course mates work on Github. Feeding back and reflecting on one another's code was a really rewarding way to gain clarity on one's ability, and to understand others code.
-* As a Photographer at Noble Studios I created work for advertising and e-commerce, working alongside designers and marketing teams. We would break down User Stories, allowing us to have a clear understanding of the problem we were solving.
+* As a Photographer at Noble Studios, I created work for advertising and e-commerce, working alongside designers and marketing teams. We would break down User Stories, allowing us to have a clear understanding of the problem we were solving.
 
 
 ## Projects
@@ -39,7 +39,7 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 |                 Project                  |               Description                | Technologies                             |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------- |
 | [BeeAppy](https://github.com/JessicaBarclay/Beehave) | React Native iOS app with Rails backend. Raising awareness for Bees! Tag Bees at your location, view facts about Bees and perhaps donate! | React Native, JavaScript ES6, Node.js, Jest, Enzyme, Ruby on Rails API, PostgreSQL |
-| [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript, makes HTTP requests via server to an API generate quotes. | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
+| [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript. The application makes HTTP requests via the server to an API that generate quotes. | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
 | [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram independently using Ruby on Rails, in 48 hours!                                                                                             Sign up, Upload images, see the in the photo feed, comment and like photos also! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
 | [Acebook](https://github.com/JessicaBarclay/Acebook) | A true test of teamwork - 17 Makers students recreating Facebook. | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
 
