@@ -22,7 +22,7 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 
 ### Research skills
 
-- Whilst building a React Native iOS app, teammates spoke of how the majority of learning came from my how I personally applied my sound research skills to help combat the team with new skills fast.
+- Whilst building a React Native mobile app, teammates spoke of how the majority of learning came from my how I personally applied my sound research skills to help combat the team with new skills fast.
 
 ### Team Player
 
@@ -40,7 +40,7 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------- |
 | [BeeAppy](https://github.com/JessicaBarclay/Beehave) | React Native iOS app with Rails backend. Raising awareness for Bees! Tag Bees at your location, view facts about Bees and perhaps donate! | React Native, JavaScript ES6, Node.js, Jest, Enzyme, Ruby on Rails API, PostgreSQL |
 | [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript. The application makes HTTP requests via the server to an API that generate quotes. | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
-| [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram independently using Ruby on Rails, in 48 hours!                                                                                             Sign up, Upload images, see the in the photo feed, comment and like photos also! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
+| [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram independently using Ruby on Rails, in 48 hours!                                                                                             Sign up, Upload images, see them in the photo feed, comment and like photos also! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
 | [Acebook](https://github.com/JessicaBarclay/Acebook) | A true test of teamwork - 17 Makers students recreating Facebook. | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
 
 
