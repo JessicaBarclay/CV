@@ -16,34 +16,31 @@ I am interested in writing well-crafted code and satisfying my hunger for contin
 
 * The single most important skill I was taught at Makers Academy, is learning how to learn.
 
-  For example, with seven days experience of working with JavaScript, I built my own vanilla JavaScript MVC and testing library.
+  For example, in our final project at Makers, we successfully built a iOS and Android compatible app using React Native, Ruby on Rails, and PostgreSQL - with no prior experience building mobile applications. 
 
-* In my previous career as a Commercial Photographer, I would learn new technical skills every day, and apply them to live briefs. This ability has transferred into how I building upon my programming skill set.
+* In my previous career as a Commercial Photographer, I would learn new technical skills every day, and apply them to live briefs. Learning by doing allowed me to work with high profile clients in the early stages of my career.
 
 ### Research skills
 
-- Whilst building a React Native iOS app, teammates spoke of how I have focused, research skills and a methodical approach to mastering new skills, benefiting greatly to the whole team.
+- Whilst building a React Native iOS app, teammates spoke of how the majority of learning came from my how I personally applied my sound research skills to help combat the team with new skills fast.
 
 ### Team Player
-
-* During my time at Makers Academy I worked on several challenging collaborative projects. Whilst building a [Facebook clone](https://github.com/JessicaBarclay/Acebook) using Ruby on Rails, teammates spoke of how my implementation of a persistent 'Like' voting feature was clean, DRY and logical.
 
 * My experience of coding in a team has been in an Agile environment. For example, when working in a team building a JavaScript type racer application, we would start every day by focussing on meeting our MVP, reviewing one another's code and continuously deploying new features.
 
 ### Communication
 
 * Makers taught me key skills, such as reviewing my course mates work on Github. Feeding back and reflecting on one another's code was a really rewarding way to gain clarity on one's ability, and to understand others code.
-
-* As a Photographer at Noble Studios I created work for advertising and e-commerce, working alongside designers and marketing teams. Communication across teams was vital, and I enjoyed supporting and gaining knowledge from my co-workers.
+* As a Photographer at Noble Studios I created work for advertising and e-commerce, working alongside designers and marketing teams. We would break down User Stories, allowing us to have a clear understanding of the problem we were solving.
 
 
 ## Projects
 
 |                 Project                  |               Description                | Technologies                             |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------- |
-| [BeeAppy](https://github.com/JessicaBarclay/Beehave) | React Native iOS app with Rails backend. Raising awareness for Bees! Tag Bees at your location, view facts about Bees and perhaps donate! | React, JavaScript ES6, Node.js, Jest, Enzyme, Ruby on Rails API, PostgreSQL |
-| [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
-| [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram using Ruby on Rails in 48 hours! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
+| [BeeAppy](https://github.com/JessicaBarclay/Beehave) | React Native iOS app with Rails backend. Raising awareness for Bees! Tag Bees at your location, view facts about Bees and perhaps donate! | React Native, JavaScript ES6, Node.js, Jest, Enzyme, Ruby on Rails API, PostgreSQL |
+| [Type Racer](https://github.com/JessicaBarclay/type-fast-type-furious) | Interactive Node.js type test game built in JavaScript, makes HTTP requests via server to an API generate quotes. | JavaScript, Node.js, Karma, Jasmine, HTML, CSS, API |
+| [Instagram](https://github.com/JessicaBarclay/instagram-challenge) | Build Instagram independently using Ruby on Rails, in 48 hours!                                                                                             Sign up, Upload images, see the in the photo feed, comment and like photos also! | Ruby, Rails, RSpec, Capybara, Selenium web driver, PostgreSQL |
 | [Acebook](https://github.com/JessicaBarclay/Acebook) | A true test of teamwork - 17 Makers students recreating Facebook. | Ruby, Rails, RSpec, Capybara, Devise and Paperclip gems, PostgreSQL |
 
 
